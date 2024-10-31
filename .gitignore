@@ -1,0 +1,6 @@
+db/
+akybot
+config.yml
+.env
+.DS_Store
+.idea/
